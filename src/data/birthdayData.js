@@ -2,7 +2,7 @@
 // Replace the photo paths with your own files inside public/images/.
 
 export const birthdayData = {
-  friendName: "BESTIE",
+  friendName: "Diksha",
   birthday: "7 October",
 
   letter: `I don't think I say this enough,
