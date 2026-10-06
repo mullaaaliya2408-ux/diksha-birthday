@@ -27,16 +27,16 @@ and a lifetime of stories together.`,
 
 
   bonusMemories: [
-    { image:"diksha-birthday/images/m26.jpeg", caption:"One more for the memory box ♡", rotation:-3, tape:"🎀" },
-    { image:"diksha-birthday/images/m27.jpeg", caption:"This one had to be here 😭", rotation:2, tape:"♡" },
-    { image:"diksha-birthday/images/m28.jpeg", caption:"A tiny moment, a giant memory.", rotation:-2, tape:"✿" },
-    { image:"diksha-birthday/images/m29.jpeg", caption:"Still one of my favourites.", rotation:3, tape:"✧" },
-    { image:"diksha-birthday/images/m30.jpeg", caption:"Us. Always. 💗", rotation:-1, tape:"🎀" },
-    { image:"diksha-birthday/images/m31.jpeg", caption:"Adding this to the forever folder.", rotation:2, tape:"♡" },
-    { image:"diksha-birthday/images/m32.jpeg", caption:"And one last little memory... ♡", rotation:-3, tape:"✿" }
+    { image:"/diksha-birthday/images/m26.jpeg", caption:"One more for the memory box ♡", rotation:-3, tape:"🎀" },
+    { image:"/diksha-birthday/images/m27.jpeg", caption:"This one had to be here 😭", rotation:2, tape:"♡" },
+    { image:"/diksha-birthday/images/m28.jpeg", caption:"A tiny moment, a giant memory.", rotation:-2, tape:"✿" },
+    { image:"/diksha-birthday/images/m29.jpeg", caption:"Still one of my favourites.", rotation:3, tape:"✧" },
+    { image:"/diksha-birthday/images/m30.jpeg", caption:"Us. Always. 💗", rotation:-1, tape:"🎀" },
+    { image:"/diksha-birthday/images/m31.jpeg", caption:"Adding this to the forever folder.", rotation:2, tape:"♡" },
+    { image:"/diksha-birthday/images/m32.jpeg", caption:"And one last little memory... ♡", rotation:-3, tape:"✿" }
   ],
 
-  finalPhoto: "diksha-birthday/images/final.jpg",
+  finalPhoto: "/diksha-birthday/images/final.jpg",
 
   scrapbookPages: [
     {
@@ -44,11 +44,11 @@ and a lifetime of stories together.`,
       note: "From strangers to besties... look at us now. 🥹💕",
       rightNote: "Different people,\nSame madness ♡",
       photos: [
-        { image:"diksha-birthday/images/m1.jpeg", caption:"The beginning ♡", date:"one of many little moments", rotation:-3, tape:"♡" },
-        { image:"diksha-birthday/images/m2.jpeg", caption:"This day >>>", rotation:2, tape:"🎀" },
-        { image:"diksha-birthday/images/m3.jpeg", caption:"Us being us 😭", rotation:-2, tape:"✿" },
-        { image:"diksha-birthday/images/m4.jpeg", caption:"Best memories.", rotation:3, tape:"♡" },
-        { image:"diksha-birthday/images/m5.jpeg", caption:"Always together.", rotation:-1, tape:"🎀" }
+        { image:"/diksha-birthday/images/m1.jpeg", caption:"The beginning ♡", date:"one of many little moments", rotation:-3, tape:"♡" },
+        { image:"/diksha-birthday/images/m2.jpeg", caption:"This day >>>", rotation:2, tape:"🎀" },
+        { image:"/diksha-birthday/images/m3.jpeg", caption:"Us being us 😭", rotation:-2, tape:"✿" },
+        { image:"/diksha-birthday/images/m4.jpeg", caption:"Best memories.", rotation:3, tape:"♡" },
+        { image:"/diksha-birthday/images/m5.jpeg", caption:"Always together.", rotation:-1, tape:"🎀" }
       ]
     },
     {
@@ -56,10 +56,10 @@ and a lifetime of stories together.`,
       note: "Chaos, laughter and absolutely zero normal behaviour.",
       rightNote: "Why are we like this? 😭\nAnd honestly... never change.",
       photos: [
-        { image:"diksha-birthday/images/m6.jpeg", caption:"Chaos.", rotation:3, tape:"✧" },
-        { image:"diksha-birthday/images/m7.jpeg", caption:"Core memory unlocked.", rotation:-2, tape:"♡" },
-        { image:"diksha-birthday/images/m8.jpeg", caption:"We survived this 😂", rotation:2, tape:"🎀" },
-        { image:"diksha-birthday/images/m9.jpeg", caption:"Adventure mode.", rotation:-3, tape:"✿" }
+        { image:"/diksha-birthday/images/m6.jpeg", caption:"Chaos.", rotation:3, tape:"✧" },
+        { image:"/diksha-birthday/images/m7.jpeg", caption:"Core memory unlocked.", rotation:-2, tape:"♡" },
+        { image:"/diksha-birthday/images/m8.jpeg", caption:"We survived this 😂", rotation:2, tape:"🎀" },
+        { image:"/diksha-birthday/images/m9.jpeg", caption:"Adventure mode.", rotation:-3, tape:"✿" }
       ]
     },
     {
@@ -67,10 +67,10 @@ and a lifetime of stories together.`,
       note: "Some conversations quietly became memories.",
       rightNote: "The kind of talks where five minutes somehow became five hours. ♡",
       photos: [
-        { image:"diksha-birthday/images/m10.jpeg", caption:"Still talking...", rotation:-2, tape:"🌙" },
-        { image:"diksha-birthday/images/m11.jpeg", caption:"Midnight thoughts.", rotation:2, tape:"♡" },
-        { image:"diksha-birthday/images/m12.jpeg", caption:"You + me always.", rotation:-3, tape:"🎀" },
-        { image:"diksha-birthday/images/m13.jpeg", caption:"Little moments.", rotation:3, tape:"✧" }
+        { image:"/diksha-birthday/images/m10.jpeg", caption:"Still talking...", rotation:-2, tape:"🌙" },
+        { image:"/diksha-birthday/images/m11.jpeg", caption:"Midnight thoughts.", rotation:2, tape:"♡" },
+        { image:"/diksha-birthday/images/m12.jpeg", caption:"You + me always.", rotation:-3, tape:"🎀" },
+        { image:"/diksha-birthday/images/m13.jpeg", caption:"Little moments.", rotation:3, tape:"✧" }
       ]
     },
     {
@@ -78,10 +78,10 @@ and a lifetime of stories together.`,
       note: "No explanation needed. Just look at us.",
       rightNote: "Our friendship is basically 50% love and 50% nonsense. 💗",
       photos: [
-        { image:"diksha-birthday/images/m14.jpeg", caption:"The silly ones.", rotation:2, tape:"♡" },
-        { image:"diksha-birthday/images/m15.jpeg", caption:"Favourite people.", rotation:-2, tape:"🎀" },
-        { image:"diksha-birthday/images/m16.jpeg", caption:"This one is special.", rotation:3, tape:"✿" },
-        { image:"diksha-birthday/images/m17.jpeg", caption:"Forever a favourite.", rotation:-3, tape:"♡" }
+        { image:"/diksha-birthday/images/m14.jpeg", caption:"The silly ones.", rotation:2, tape:"♡" },
+        { image:"/diksha-birthday/images/m15.jpeg", caption:"Favourite people.", rotation:-2, tape:"🎀" },
+        { image:"/diksha-birthday/images/m16.jpeg", caption:"This one is special.", rotation:3, tape:"✿" },
+        { image:"/diksha-birthday/images/m17.jpeg", caption:"Forever a favourite.", rotation:-3, tape:"♡" }
       ]
     },
     {
@@ -89,10 +89,10 @@ and a lifetime of stories together.`,
       note: "The tiny moments are the ones I never want to forget.",
       rightNote: "Thank you for being you. Here's to everything still waiting for us.",
       photos: [
-        { image:"diksha-birthday/images/m18.jpeg", caption:"A tiny happy moment.", rotation:-3, tape:"♡" },
-        { image:"diksha-birthday/images/m19.jpeg", caption:"One for the scrapbook.", rotation:2, tape:"🎀" },
-        { image:"diksha-birthday/images/m20.jpeg", caption:"More memories please.", rotation:-2, tape:"✧" },
-        { image:"diksha-birthday/images/m21.jpeg", caption:"To be continued...", rotation:3, tape:"✿" }
+        { image:"/diksha-birthday/images/m18.jpeg", caption:"A tiny happy moment.", rotation:-3, tape:"♡" },
+        { image:"/diksha-birthday/images/m19.jpeg", caption:"One for the scrapbook.", rotation:2, tape:"🎀" },
+        { image:"/diksha-birthday/images/m20.jpeg", caption:"More memories please.", rotation:-2, tape:"✧" },
+        { image:"/diksha-birthday/images/m21.jpeg", caption:"To be continued...", rotation:3, tape:"✿" }
       ]
     },
     {
@@ -100,10 +100,10 @@ and a lifetime of stories together.`,
       note: "This isn't the end. It's just another page.",
       rightNote: "More adventures.\nMore pictures.\nMore chaos.\nMore us. 🎀",
       photos: [
-        { image:"diksha-birthday/images/m22.jpeg", caption:"Next chapter.", rotation:2, tape:"♡" },
-        { image:"diksha-birthday/images/m23.jpeg", caption:"Forever memories.", rotation:-2, tape:"🎀" },
-        { image:"diksha-birthday/images/m24.jpeg", caption:"And many more...", rotation:3, tape:"✧" },
-        { image:"diksha-birthday/images/m25.jpeg", caption:"♡", rotation:-3, tape:"✿" }
+        { image:"/diksha-birthday/images/m22.jpeg", caption:"Next chapter.", rotation:2, tape:"♡" },
+        { image:"/diksha-birthday/images/m23.jpeg", caption:"Forever memories.", rotation:-2, tape:"🎀" },
+        { image:"/diksha-birthday/images/m24.jpeg", caption:"And many more...", rotation:3, tape:"✧" },
+        { image:"/diksha-birthday/images/m25.jpeg", caption:"♡", rotation:-3, tape:"✿" }
       ]
     }
   ]
