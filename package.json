@@ -16,5 +16,8 @@
     "react-dom": "latest",
     "run": "^2.1.7",
     "vite": "latest"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
